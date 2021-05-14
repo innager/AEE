@@ -1,5 +1,5 @@
-# EdgeworthExpansions
-General order Edgeworth expansions
+# AEE
+General order adjusted Edgeworth expansions
 
 Generate Edgeworth expansions for one- and two-sample generalized-form *t*-statistics (including ordinary and moderated *t*-statistics and Welch's *t*-test); plus expansions for a general test statistic when the moments of this statistic's distribution are available. 
 
